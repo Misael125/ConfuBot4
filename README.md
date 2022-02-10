@@ -33,7 +33,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
 ## `CAMBIAR SESSIÓN`
 
-[`Click Aqui`](https://github.com/Confusion245/ConfuBot4/blob/master/session.json#L1)
+[`Click Aqui`](https://github.com/misael125/ConfuBot4/blob/master/session.json#L1)
 
 ## `AJUSTES`
 
