@@ -60,7 +60,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 🐢 pkg install ffmpeg -y 
 🌿 pkg install wget
 🐢 pkg install imagemagick -y
-🌿 git clone https://github.com/Confusion245/ConfuBot4
+🌿 git clone https://github.com/misael125/ConfuBot4
 🐢 cd ConfuBot4
 🌿 npm install
 🐢 npm start
